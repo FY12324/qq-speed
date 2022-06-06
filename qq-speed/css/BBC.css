@@ -1,0 +1,513 @@
+.head1{
+	padding-left: 100px;
+	width:100%;
+	height:40px;
+	margin-top: 0;
+}
+.head1-logo1{
+   padding-left: 10%;
+    width:39.9999%;
+    float: left;
+}
+.head1-logo1 img{
+	padding-right: 8px;
+    }
+.head1-logo2{
+    width:49.9999%;
+    float: left;
+    height: 40px;
+}
+.head1-logo2 img{
+    width: 70px;
+    float: left;
+    height: 40px;
+}
+.head1-logo2 span{
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+    float: left;
+    padding-top: 8px;
+}
+#wrap{
+    background:url(../imgs/guanwang.jpg) no-repeat center top;
+    width:100%;
+    height: 2030px;
+}
+.head2-top{
+    background:url(../imgs/nav.png) no-repeat center top;
+   width: 100%;
+    height:430px;
+    margin-top: 15px;
+    position: relative;
+}
+.head2-top li{
+    list-style: none;
+}
+.head2-down{
+    background-image: url(../imgs/nav_down_re.png);
+    background-repeat: repeat-x;
+    padding-left: 100px;
+    width: 80.19%;
+    height:48px;
+}
+.head2-top a{
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+}
+.head2-top a:hover{
+    text-decoration: underline;
+    color:#ff4d35 ;
+}
+.head2-1 ul{
+    width: 3.207%;
+    height: 60px;
+    float: left;
+padding-left: 100px;
+    margin-top: 0;
+}
+.head2-1 li{
+    width:100px;
+    padding-top: 5px;
+}
+.head2-2{
+    position: absolute;
+    top: 37px;
+    left: 50%;
+    margin-left: -107px;   
+    width: 137px;
+    height: 84px;
+}
+.head2-2 img{
+    width: 100%;
+    height: 100%;
+    padding-left: 40px;
+}
+.clear{
+    clear: both;
+}
+.head3-1{
+    width:20%;
+    height: 350px;
+    background:url(../imgs/h4.jpg)top right no-repeat;
+    margin-left: 15%;
+    float: left;
+    position: relative;
+}
+.head3-1 h2{
+    color:white;
+    margin: 0;
+    padding-left: 34%;
+    padding-top: 30px;
+}
+.head3-1 h5{
+    color:white;
+    padding-left: 34%;
+}
+.sc{
+    position: absolute;
+    width: 100%;
+}
+.head3-1 img{
+    padding-left: 40.1%;
+    padding-top: 40px;
+}
+.head3-1 a{
+    color: white;
+    text-decoration: none;
+}
+.head3-2{
+    background:url(../imgs/h7fb.jpg) top left no-repeat;
+    width: 65%;
+    height:250px ;
+    margin-left:35%;
+    margin-top: 25px;
+}
+.head3-3{
+    margin-left: 33.5%;
+    width:16.68%;
+    height: 248px;
+    position: absolute;
+}
+.head3-3 img{
+    height: 100%;
+    padding-top: 5px;
+    width: 100%;
+}
+.head4{
+  width: 100%;
+  height: 846px;
+  position: relative;
+}
+.head4-0{
+    z-index: 7;
+    height: 846px;
+    width:19.25%;
+    position: relative;
+    float: left;
+    margin-left: 11.23%;
+    border:black 1px;
+    background:url(../imgs/h10.png) no-repeat;
+    background-position: top;
+    background-size: 100% 100%;
+}
+.head4-0 img{
+    padding-top:0;
+    width: 90.7%;
+    height: 70px;
+    padding-left: 4.2%;
+    margin-top: 10px;
+}
+.head4-2{
+    position: absolute;
+    width:83.333%;
+    height:80px;
+    background-color:lightgray;
+    border-radius: 8%;
+    margin-top: 15px;
+    position: relative;
+    float: left;
+    margin-left: 6.34%;
+}
+.head4-2 ul{
+padding-left:4.4%;
+}
+.head4-2 li{
+    list-style: none;
+    float: left;
+    padding-left: 2.05%;
+}
+.head4-2 a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    color: black;
+    padding-left: 20px;
+}
+.head4-2 a :hover{
+    text-decoration: underline;
+}
+.head4-3{
+    width:83.34%;
+    height:160px;
+    background-color: lightgray;
+    margin-top: 0px;
+    margin-left: 5%;
+    border-radius: 8%;
+}
+.head4-3 ul{
+    padding-left: 12.5%;
+}
+.head4-3 li{
+    list-style: none;
+    padding-top: 5px;
+}
+.head4-3 a{
+    text-decoration: none;
+    font-size: 12px;
+    color:black;
+}
+.head4-3 a :hover{
+    text-decoration: underline;
+}
+.head4-4{
+    width: 83.333%;
+    height: 40px;
+}
+.head4-4 p{
+    font-size: 20px;
+    font-weight: 800;
+    color: gray;
+    padding-left: 12.5%;
+    margin-bottom: 0;
+}
+.head4-4 h6{
+    padding-left:37.5%;
+    margin-top: 0;
+    color: gray;
+}
+.head4-5{
+    width:83.333%;
+    height:140px;
+    background-color: lightgray;
+    margin-top: 0px;
+    margin-left: 5.4%;
+    border-radius: 8%;
+}
+.head4-5 ul{
+    padding-left: 15%;
+}
+.head4-5 li{
+    list-style: none;
+    padding-top: 5px;
+}
+.head4-5 a{
+    text-decoration: none;
+    font-size: 12px;
+    color:black;
+}
+.head4-5 a :hover{
+    text-decoration: underline;
+}
+.head4-6{
+    background:url(../imgs/h14.PNG) no-repeat top;
+    width: 91.66%;
+    height:50px;
+    background-size: 100% 100%;
+    margin-left: 3.15%;
+   margin-top:10px;
+}
+.head4-7{
+    margin-left: 14.2%;
+    margin-top: 20px;
+}
+.main{
+    width:100%;
+    height:600px;
+    position: relative;
+}
+.main1-top{
+    width: 100%;
+    height: 50px;
+    margin-left:2.2%;
+    padding-top: 10px;
+}
+.main1-top a{
+    text-decoration: none;
+    color: black;
+}
+.main1{
+    height: 300px;
+    width: 40%;
+    float: left;
+    position: absolute;
+    z-index: 5;
+    padding-left: 30%;
+}
+.main1-1{
+    width: 100%;
+    height: 100%;
+}
+.main1-1 li{
+    list-style: none;
+    float: left;
+    padding-left: 11.02%;
+    font-size: 13px;
+    padding-top: 8px;
+}
+.main1-1 ul{
+    height: 50px;
+   margin: 0;
+   padding: 0;
+}
+.main1-1 li:hover{
+    color: #ff4d35;
+}
+.main1-2{
+    width: 100%;
+    height: 130px;
+ 
+}
+.main1-3{
+    width: 100%;
+    height: 30px;
+}
+.main1-1 a{
+    text-decoration: none;
+}
+.main1-1 a:hover{
+    text-decoration: underline;
+}
+.main1-3 a{
+    padding-left:12.02%;
+        color: #ff4d35;
+        font-weight: 700;
+        font-size: 17px;
+}
+.ab{
+    padding-left: 14.03%;
+    font-size: 13px;
+}
+.show1{
+    width: 100%;
+    height: 110px;
+}
+.show1 ul{
+    margin-left: 0;
+    padding-left: 0;
+    float: left;
+}
+.show1 li{
+    width: 100%;
+    padding-left: 6.01%;
+}
+.show1 a{
+    color: black;
+}
+.main2{
+    width:25%;
+    height: 300px;
+    margin-left:75%;
+    position: absolute;
+    z-index: 4;
+}
+.main2-top{
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+}
+.main3{
+    width:40%;
+    height: 300px;
+    padding-left: 30%;
+    padding-top: 320px;
+    position: absolute;
+    z-index: 3;
+}
+.main3 li{
+    list-style: none;
+}
+.main3 a{
+    text-decoration: none;
+    font-size: 13px;
+}
+.main3 a:hover{
+    text-decoration: underline;
+}
+.main3-1{
+    height: 20px;
+    width: 100%;
+}
+.main3-1 ul{
+    margin: 0;
+    height: 20px;
+}
+.main3-1 li{
+    float: left;
+    padding-left: 20%;
+}
+.main3-2{
+    float: left;
+}
+.main3-3_top{
+    width:60%;
+    height: 30px;
+    float: right;
+    padding-top: 20px;
+}
+.main3-3_top a{
+    color: rgb(0, 132, 255);
+    font-size: 17px;
+    font-weight:700;
+
+}
+.main3-4{
+    width: 80%;
+    height: 50px;
+    padding-left: 30%;
+}
+.cd{
+    padding-left:2.78%;
+    font-size: 13px;
+}
+.main3-4 li{
+    padding-top: 8px;
+}
+.main4{
+    position: absolute;
+    padding-top:330px;
+    padding-left: 75%;
+    width: 25%;
+    z-index: 2;
+}
+.main5{
+    width: 60%;
+    height: 300px;
+    padding-top: 620px;
+    padding-left: 32%;
+    z-index: 1;
+}
+.main5-1 li{
+    list-style: none;
+    float: left;
+    padding-left: 13.02%;
+    font-size: 15px;
+    font-weight: 600;
+}
+.main5-2 img{
+    width: 160px;
+    height: 100px;
+    padding-left: 10.98%;
+}
+.main5-2 ul{
+    padding-left: 0;
+}
+.main5-2 li{
+    margin-top: 20px;
+    padding: 0;
+    list-style:none;
+    float: left;
+}
+.main5-2 span{
+    font-size: 13px;
+    padding-left: 5px;
+}
+.main5-2 a{
+    text-decoration: none;
+    color:black;
+}
+.main5-2 a:hover{
+    text-decoration: underline;
+}
+.foot{
+    width: 100%;
+    height: 320px;
+    margin-top: 90px;
+}
+.foot1-1{
+    width: 29%;
+    height: 150px;
+    padding-left:12.03%;
+    float: left;
+    padding-top: 30px;
+}
+.foot1-2{
+    width:100%;
+    height:230px;
+   margin-left: 16.03%;
+   padding-bottom: 0;
+}
+.foot1-2 p{
+    font-size: 8px;
+    width: 100%;
+    color: gray;
+    padding: 0;
+    margin-top:1px;
+}
+.foot1-2 a{
+    text-decoration: none;
+    color:gray;
+}
+.foot1-2 a:hover{
+    text-decoration: underline;
+}
+.foot1-2 img{
+   margin-top:5px;
+}
+.dd{
+    font-size: 8px;
+    width: 100%;
+    color: gray;
+    padding: 0;
+}
+.foot2{
+    width: 100%;
+    height: 80px;
+}
+.foot2 p{
+   font-weight: 600;
+   padding-left: 20%;
+   margin: 0;
+}

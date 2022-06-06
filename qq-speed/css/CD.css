@@ -1,0 +1,165 @@
+.head{
+    width: 100%;
+    height: 60px;
+
+}
+.head img{
+    width: 250px;
+    height: 50px;
+  
+}
+.head a{
+    text-decoration: none;
+    color: black;
+}
+.head1{
+    float: left;
+}
+.head2{
+    width: 6%;
+    padding-left: 100px;
+    padding-top: 15px;
+    float: left;
+}
+.head2 a:hover{
+    color: lightskyblue;
+}
+.head3{
+    background:url(../imgs/h18.PNG) no-repeat ;
+    background-size: 100% 100%;
+    width: 100px;
+    height: 27px;
+    float: left;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.head3 a{
+    padding-left: 15px;
+}
+.main{
+    background:url(../imgs/n1.jpg) no-repeat top;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 500px;
+}
+.clear{
+    clear: both;
+}
+.main1{
+    background:url(../imgs/t1.png) no-repeat top;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 60px;
+}
+.img1{
+    width: 100px;
+    height: 60px;
+    padding-left: 39%;
+    margin-top:0;
+    float: left;
+}
+.img2{
+    width: 15%;
+    height: 60px;
+    float: left;
+}
+.main1 span{
+    font-size: 40px;
+    color: rgb(255, 102, 0);
+  font-style: italic;
+}
+.main2 p{
+color: lightskyblue;
+font-size: 20px;
+font-weight: 600;
+padding: 0;
+margin: 0;
+margin-top: 20px;
+}
+.main2-1{
+    width: 20%;
+    height: 500px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.main2-2{
+    float: right;
+    width: 60%;
+    height: 280px;
+}
+.main2-2 span{
+    color: grey;
+    font-weight: 600;
+}
+.layui-input{
+    margin-top: 10px;
+    height: 23px;
+    width: 180px; 
+}
+.main2 a{
+    color: orange;
+    font-size: 15px;
+    font-weight: 600;
+}
+.main2-3{
+    width:40%;
+    height: 15px;
+    padding-left:40%;
+    padding-top: 280px;
+}
+.main2-4{
+    padding-top: 10px;
+    width:45%;
+    height: 15px;
+    padding-left:40%;
+}
+.main2-5{
+    width: 60%;
+    height: 30px;
+    padding-left: 40%;
+    padding-top: 10px;
+}
+.main2-6{
+    width: 60%;
+    height: 30px;
+    margin-left: 40%;
+}
+.main2-7{
+    background-color: rgb(21, 117, 206);
+    width: 80px;
+    height: 20px;
+    border: 1px black;
+    border-radius: 10%;
+    margin:0;
+    display: inline;
+    margin-left: 15px;
+}
+.main3{
+    width: 60%;
+    height: 30px;
+    margin-left: 0;
+}
+.main3 img{
+    width: 30%;
+    height: 100%;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.main3 a{
+    width: 70px;
+}
+.main3 input{
+    width: 30%; 
+    color:black;
+    height: 100%;
+	letter-spacing: 1px;
+    border:2px solid gray;
+    border-radius: 5%;
+	outline:none;
+	background:/* #03a9f4 */lightskyblue;
+    float: left;
+    margin-top: 50px;
+    padding-left: 20px;
+    margin-left: 7%;
+}
